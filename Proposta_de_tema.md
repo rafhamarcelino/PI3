@@ -34,7 +34,7 @@ Orientador: Roddy Alexander
 
 # Cronograma
 
-Clique [aqui]() para acessar o cronograma.
+Clique [aqui](https://github.com/users/rafhamarcelino/projects/1/views/3) para acessar o cronograma.
 
 # Lista de materiais 
 
