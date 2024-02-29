@@ -42,10 +42,10 @@ Clique [aqui]() para acessar o cronograma.
 
 | Item | Descrição | Unidade | Valor Unitário | Quantidade | Total |
 | ---- | ------------- | --- | ------------- | ------------- | ------------- |
-|  01  | ITG200 Khompa | R$ 30,00 | 1 | R$ 30,00 |
-|  02  | ITT 100 Khomp | rolo de 5 m | R$ 20,00 | 1 | R$ 100,00 |
-|  03  | EM R102 Khomp | rolo de 5 m | R$ 20,00 | 1 | R$ 100,00 |
-|  04  | Estação Metereológica Khomp | rolo de 5 m | R$ 20,00 | 1 | R$ 100,00 |
+|  01  | ITG200 Khompa | 1 | ? | 1 | ? |
+|  02  | ITT 100 Khomp | 1 | ? | 1 | ? |
+|  03  | EM R102 Khomp | 1 | ? | 1 | ? |
+|  04  | Estação Metereológica Khomp | 1 | ? | 1 | ? |
 
 |    |  |   |  |  | **R$ 130,00** |
 
