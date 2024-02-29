@@ -20,7 +20,7 @@ Orientador: Roddy Alexander
 
 # Metodologia
 > 1. Proteção do Gateway:<br />
->   - Pesquisa e aquisição do case plástico; <br />
+    - Pesquisa e aquisição do case plástico; <br />
     - Instalação do gateway no case.<br /> 
 > 3. Configuração e Testes do Gateway LoRa:<br />
     - Configuração do gateway ITG200 Khomp para comunicação via LoRa com a platforma em nuvem The Things Network (TTN); <br />
