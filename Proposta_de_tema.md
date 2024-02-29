@@ -10,7 +10,7 @@ Orientador: Roddy Alexander Romero Antayhua
 
 # Objetivos específicos
 
-> 1. Configurar do gateway ITG200 para comunicação via LoRa.<br /> 
+> 1. Configurar do gateway ITG200.<br /> 
 > 2. Realizar testes de comunicação entre o gateway e nós sensores LoRa em ambientes abertos, avaliando o desempenho em diversos pontos.<br /> 
 > 3. Configurar a estação meteorológica e integrar o gateway ITG200.<br /> 
 > 4. Propor local de instalação da estação meteorológica e realizar a instalação da estação meteorológica no local determinado.<br/> 
@@ -22,7 +22,7 @@ Orientador: Roddy Alexander Romero Antayhua
     - Instalação do gateway no case.<br /> 
 > 3. Configuração e Testes do Gateway LoRa:<br />
     - Configuração do gateway ITG200 Khomp para comunicação via LoRa com a plataforma em nuvem The Things Network (TTN); <br />
-    - Realização de testes de comunicação com nós sensores LoRa (ITT 100 Khomp e EM R102 Khomp).<br /> 
+    - Realização de testes de comunicação com nós sensores LoRa (ITT 100 Khomp).<br /> 
 > 4. Integração do Gateway com Estação Meteorológica:<br />
     - Configuração de protocolos de comunicação entre o gateway e a estação meteorológica através do TTN.<br /> 
 > 5. Instalação da Estação Meteorológica:<br />
