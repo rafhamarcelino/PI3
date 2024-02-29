@@ -3,7 +3,7 @@ Título: Desenvolvimento de um sistema de monitoramento de uma estação metereo
 
 Aluno(s): Rafhael Nascimento Marcelino
 
-Orientador: Roddy Alexander
+Orientador: Roddy Alexander Romero Antayhua
 
 # Objetivo geral
 > Desenvolver um sistema de monitoramento em ambientes abertos utilizando a comunicação LoRa, integrando um gateway ITG200, sensores LoRa e uma estação meteorológica, com visualização dos dados através da plataforma TagoIO.
