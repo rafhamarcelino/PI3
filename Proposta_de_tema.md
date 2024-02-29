@@ -13,7 +13,6 @@ Orientador: Roddy Alexander
 # Objetivos específicos
 
 > Configurar do gateway ITG200 para comunicação via LoRa.
-> 
 > Realizar testes de comunicação entre o gateway e nós sensores LoRa em ambientes abertos, avaliando o desempenho em diversos pontos.
 > Configurar a estação meteorológica e integrar o gateway ITG200.
 > Propor local de instalação da estação meteorológica e realizar a instalação da estação meteorológica no local determinado.
