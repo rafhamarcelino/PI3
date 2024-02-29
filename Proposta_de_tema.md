@@ -19,11 +19,11 @@ Orientador: Roddy Alexander
 > 5. Configurar a visualização dos dados coletados através da plataforma TagoIO, proporcionando uma interface amigável para análise e monitoramento.
 
 # Metodologia
-> 1. Proteção do Gateway: Pesquisa e aquisição do case plástico; Instalação do gateway no case.<br /> 
-> 2. Configuração e Testes do Gateway LoRa: Configuração do gateway ITG200 Khomp para comunicação via LoRa com a platforma em nuvem The Things Network (TTN); Realização de testes de comunicação com nós sensores LoRa (ITT 100 Khomp e EM R102 Khomp).<br /> 
+> 1. Proteção do Gateway: Pesquisa e aquisição do case plástico; <br /> Instalação do gateway no case.<br /> 
+> 2. Configuração e Testes do Gateway LoRa: Configuração do gateway ITG200 Khomp para comunicação via LoRa com a platforma em nuvem The Things Network (TTN); <br /> Realização de testes de comunicação com nós sensores LoRa (ITT 100 Khomp e EM R102 Khomp).<br /> 
 > 3. Integração do Gateway com Estação Meteorológica: Configuração de protocolos de comunicação entre o gateway e a estação meteorológica através do TTN.<br /> 
-> 4. Instalação da Estação Meteorológica: Proposta de local de instalação através de testes de comunicação; Instalação da estação no local determinado.<br /> 
-> 5. Visualização dos Dados na TagoIO: Configuração da integração com a plataforma TagoIO; Verificação dos dados coletados.
+> 4. Instalação da Estação Meteorológica: Proposta de local de instalação através de testes de comunicação; <br /> Instalação da estação no local determinado.<br /> 
+> 5. Visualização dos Dados na TagoIO: Configuração da integração com a plataforma TagoIO; <br /> Verificação dos dados coletados.
 
 # Cronograma
 
