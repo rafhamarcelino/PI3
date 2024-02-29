@@ -45,7 +45,6 @@ Clique [aqui]() para acessar o cronograma.
 |  03  | EM R102 Khomp | 1 | ? | 1 | ? |
 |  04  | Estação Metereológica Khomp | 1 | ? | 1 | ? |
 |  05  | Case Plástico | 1 | ? | 1 | ? |
-
 |    |  |   |  |  | **R$ ?????** |
 
 # Unidades curriculares envolvidas
