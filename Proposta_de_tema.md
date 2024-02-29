@@ -1,5 +1,5 @@
 # Proposta de Tema de PI3
-Título: Desenvolvimento de um sistema de monitoramento de uma estação metereológica utilizando a comunicação LoRa
+Título: Desenvolvimento de um sistema de monitoramento de uma estação meteorológica utilizando a comunicação LoRa
 
 Aluno(s): Rafhael Nascimento Marcelino
 
