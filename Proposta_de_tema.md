@@ -40,7 +40,7 @@ Clique [aqui]() para acessar o cronograma.
 
 | Item | Descrição | Unidade | Valor Unitário | Quantidade | Total |
 | ---- | ------------- | --- | ------------- | ------------- | ------------- |
-|  01  | ITG200 Khompa | 1 | ? | 1 | ? |
+|  01  | ITG200 Khomp | 1 | ? | 1 | ? |
 |  02  | ITT 100 Khomp | 1 | ? | 1 | ? |
 |  03  | EM R102 Khomp | 1 | ? | 1 | ? |
 |  04  | Estação Metereológica Khomp | 1 | ? | 1 | ? |
